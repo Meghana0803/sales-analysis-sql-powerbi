@@ -30,3 +30,8 @@ The interactive Power BI dashboard is included as a `.pbix` file.
 
 ## Outcome
 Built an end-to-end sales analysis solution to support data-driven decisions.
+
+## Demo Video
+🎥 Project walkthrough: [PASTE VIDEO LINK HERE]
+
+https://drive.google.com/drive/folders/15jMmdr7GGA_Z7jQHwQQhQ5MTE2IwPcNC?usp=sharing
